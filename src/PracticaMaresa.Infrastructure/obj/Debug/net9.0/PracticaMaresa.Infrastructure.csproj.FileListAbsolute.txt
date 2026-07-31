@@ -14,3 +14,5 @@ C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\Pr
 C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\refint\PracticaMaresa.Infrastructure.dll
 C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\PracticaMaresa.Infrastructure.pdb
 C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\ref\PracticaMaresa.Infrastructure.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\bin\Debug\net9.0\PracticaMaresa.Application.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\bin\Debug\net9.0\PracticaMaresa.Application.pdb

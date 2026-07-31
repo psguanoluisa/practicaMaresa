@@ -989,6 +989,19 @@
           }
         }
       },
+      "PracticaMaresa.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "PracticaMaresa.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PracticaMaresa.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PracticaMaresa.Application.dll": {}
+        }
+      },
       "PracticaMaresa.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -2749,6 +2762,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "PracticaMaresa.Application/1.0.0": {
+      "type": "project",
+      "path": "../PracticaMaresa.Application/PracticaMaresa.Application.csproj",
+      "msbuildProject": "../PracticaMaresa.Application/PracticaMaresa.Application.csproj"
+    },
     "PracticaMaresa.Domain/1.0.0": {
       "type": "project",
       "path": "../PracticaMaresa.Domain/PracticaMaresa.Domain.csproj",
@@ -2758,6 +2776,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
+      "PracticaMaresa.Application >= 1.0.0",
       "PracticaMaresa.Domain >= 1.0.0"
     ]
   },
@@ -2797,6 +2816,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Application\\PracticaMaresa.Application.csproj": {
+              "projectPath": "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Application\\PracticaMaresa.Application.csproj"
+            },
             "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Domain\\PracticaMaresa.Domain.csproj": {
               "projectPath": "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Domain\\PracticaMaresa.Domain.csproj"
             }

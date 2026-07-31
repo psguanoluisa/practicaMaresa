@@ -9,6 +9,7 @@
       "PracticaMaresa.Infrastructure/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+          "PracticaMaresa.Application": "1.0.0",
           "PracticaMaresa.Domain": "1.0.0"
         },
         "runtime": {
@@ -574,6 +575,17 @@
           }
         }
       },
+      "PracticaMaresa.Application/1.0.0": {
+        "dependencies": {
+          "PracticaMaresa.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PracticaMaresa.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "PracticaMaresa.Domain/1.0.0": {
         "runtime": {
           "PracticaMaresa.Domain.dll": {
@@ -974,6 +986,11 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "PracticaMaresa.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "PracticaMaresa.Domain/1.0.0": {
       "type": "project",

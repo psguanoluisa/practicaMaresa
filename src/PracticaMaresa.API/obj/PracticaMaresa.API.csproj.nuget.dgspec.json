@@ -275,6 +275,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Application\\PracticaMaresa.Application.csproj": {
+                "projectPath": "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Application\\PracticaMaresa.Application.csproj"
+              },
               "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Domain\\PracticaMaresa.Domain.csproj": {
                 "projectPath": "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Domain\\PracticaMaresa.Domain.csproj"
               }
