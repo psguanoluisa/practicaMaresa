@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "PracticaMaresa.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/PracticaMaresa.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PracticaMaresa.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PracticaMaresa.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PracticaMaresa.Domain/PracticaMaresa.Domain.csproj",
+      "msbuildProject": "../PracticaMaresa.Domain/PracticaMaresa.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "PracticaMaresa.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\pablo.guanoluisa\\.nuget\\packages\\": {},
@@ -42,7 +61,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Domain\\PracticaMaresa.Domain.csproj": {
+              "projectPath": "C:\\Users\\pablo.guanoluisa\\Documents\\BUSINESS IT\\ProyectoIA\\practicaMaresa\\src\\PracticaMaresa.Domain\\PracticaMaresa.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

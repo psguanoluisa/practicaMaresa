@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PracticaMaresa.Application/1.0.0": {
+        "dependencies": {
+          "PracticaMaresa.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PracticaMaresa.Application.dll": {}
+        }
+      },
+      "PracticaMaresa.Domain/1.0.0": {
+        "runtime": {
+          "PracticaMaresa.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaMaresa.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PracticaMaresa.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

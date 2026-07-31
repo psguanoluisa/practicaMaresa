@@ -1,0 +1,16 @@
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\bin\Debug\net9.0\PracticaMaresa.Application.deps.json
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\bin\Debug\net9.0\PracticaMaresa.Application.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\bin\Debug\net9.0\PracticaMaresa.Application.pdb
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\bin\Debug\net9.0\PracticaMaresa.Domain.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\bin\Debug\net9.0\PracticaMaresa.Domain.pdb
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\PracticaMaresa.Application.csproj.AssemblyReference.cache
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\PracticaMaresa.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\PracticaMaresa.Application.AssemblyInfoInputs.cache
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\PracticaMaresa.Application.AssemblyInfo.cs
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\PracticaMaresa.Application.csproj.CoreCompileInputs.cache
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\PracticaMaresa.Application.sourcelink.json
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\Practica.4B1ED037.Up2Date
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\PracticaMaresa.Application.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\refint\PracticaMaresa.Application.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\PracticaMaresa.Application.pdb
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Application\obj\Debug\net9.0\ref\PracticaMaresa.Application.dll

@@ -1,0 +1,16 @@
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\bin\Debug\net9.0\PracticaMaresa.Infrastructure.deps.json
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\bin\Debug\net9.0\PracticaMaresa.Infrastructure.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\bin\Debug\net9.0\PracticaMaresa.Infrastructure.pdb
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\bin\Debug\net9.0\PracticaMaresa.Domain.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\bin\Debug\net9.0\PracticaMaresa.Domain.pdb
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\PracticaMaresa.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\PracticaMaresa.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\PracticaMaresa.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\PracticaMaresa.Infrastructure.AssemblyInfo.cs
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\PracticaMaresa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\PracticaMaresa.Infrastructure.sourcelink.json
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\Practica.15515E8D.Up2Date
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\PracticaMaresa.Infrastructure.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\refint\PracticaMaresa.Infrastructure.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\PracticaMaresa.Infrastructure.pdb
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Infrastructure\obj\Debug\net9.0\ref\PracticaMaresa.Infrastructure.dll

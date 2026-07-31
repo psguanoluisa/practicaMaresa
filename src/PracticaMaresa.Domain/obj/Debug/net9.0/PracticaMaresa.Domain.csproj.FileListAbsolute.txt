@@ -1,0 +1,12 @@
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\bin\Debug\net9.0\PracticaMaresa.Domain.deps.json
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\bin\Debug\net9.0\PracticaMaresa.Domain.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\bin\Debug\net9.0\PracticaMaresa.Domain.pdb
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\obj\Debug\net9.0\PracticaMaresa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\obj\Debug\net9.0\PracticaMaresa.Domain.AssemblyInfoInputs.cache
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\obj\Debug\net9.0\PracticaMaresa.Domain.AssemblyInfo.cs
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\obj\Debug\net9.0\PracticaMaresa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\obj\Debug\net9.0\PracticaMaresa.Domain.sourcelink.json
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\obj\Debug\net9.0\PracticaMaresa.Domain.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\obj\Debug\net9.0\refint\PracticaMaresa.Domain.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\obj\Debug\net9.0\PracticaMaresa.Domain.pdb
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.Domain\obj\Debug\net9.0\ref\PracticaMaresa.Domain.dll
