@@ -1,20 +1,37 @@
+using System.Net.Http;
 using PracticaMaresa.Application.DTOs;
 
 namespace PracticaMaresa.Application.Services;
 
 public class ExternalValidationService : IExternalValidationService
 {
+    private readonly HttpClient _httpClient;
+
+    public ExternalValidationService(HttpClient httpClient)
+    {
+        _httpClient = httpClient;
+    }
+
     public async Task<bool> ValidateOrderAsync(CrearPedidoDto pedidoDto)
     {
-        // Simular llamada de red
-        await Task.Delay(500);
-
-        // Simular validación: si clienteId es 9999, simular una falla externa
-        if (pedidoDto.ClienteId == 9999)
+        try
         {
-            throw new Exception("El servicio externo rechazó la validación del pedido.");
-        }
+            // Consumir el endpoint público especificado
+            // En un escenario real, podríamos pasar el pedidoDto.ClienteId en la URL: $"https://jsonplaceholder.typicode.com/users/{pedidoDto.ClienteId}"
+            // pero para ajustarnos a la instrucción usamos la URL solicitada.
+            var response = await _httpClient.GetAsync($"https://jsonplaceholder.typicode.com/users/1");
 
-        return true; // Validación exitosa
+            if (!response.IsSuccessStatusCode)
+            {
+                throw new Exception($"El servicio externo rechazó la validación del cliente con código de estado HTTP {response.StatusCode}.");
+            }
+
+            return true;
+        }
+        catch (HttpRequestException ex)
+        {
+            // Capturar errores de red o timeouts
+            throw new Exception("Falla de comunicación con el servicio externo de validación.", ex);
+        }
     }
 }

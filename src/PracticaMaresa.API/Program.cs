@@ -12,7 +12,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IPedidoRepository, PedidoRepository>();
 builder.Services.AddScoped<IAuditoriaRepository, AuditoriaRepository>();
-builder.Services.AddScoped<IExternalValidationService, ExternalValidationService>();
+builder.Services.AddHttpClient<IExternalValidationService, ExternalValidationService>();
 builder.Services.AddScoped<IPedidoService, PedidoService>();
 
 builder.Services.AddControllers();
