@@ -158,3 +158,6 @@ C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\Pr
 C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.API\obj\Debug\net9.0\PracticaMaresa.API.pdb
 C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.API\obj\Debug\net9.0\PracticaMaresa.API.genruntimeconfig.cache
 C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.API\obj\Debug\net9.0\ref\PracticaMaresa.API.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pablo.guanoluisa\Documents\BUSINESS IT\ProyectoIA\practicaMaresa\src\PracticaMaresa.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

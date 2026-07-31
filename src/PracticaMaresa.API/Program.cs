@@ -16,18 +16,23 @@ builder.Services.AddHttpClient<IExternalValidationService, ExternalValidationSer
 builder.Services.AddScoped<IPedidoService, PedidoService>();
 
 builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new() { Title = "PracticaMaresa API", Version = "v1", Description = "API REST para registro de pedidos" });
+});
 
 var app = builder.Build();
 
 app.UseMiddleware<PracticaMaresa.API.Middlewares.GlobalExceptionMiddleware>();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.MapOpenApi();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "PracticaMaresa API v1");
+    c.RoutePrefix = string.Empty; // Swagger en la raíz http://localhost:5150
+});
 
 app.UseHttpsRedirection();
 
