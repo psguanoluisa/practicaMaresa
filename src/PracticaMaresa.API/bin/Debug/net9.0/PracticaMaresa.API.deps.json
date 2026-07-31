@@ -982,6 +982,7 @@
       "PracticaMaresa.Infrastructure/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+          "PracticaMaresa.Application": "1.0.0",
           "PracticaMaresa.Domain": "1.0.0"
         },
         "runtime": {
